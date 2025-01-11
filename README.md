@@ -2,7 +2,7 @@
 
 This project provides a data visualization and analysis tool for rental apartment data. It consists of two main components:
 
-## 1. Data Cleaning and Analysis (`apartments-visuals.ipynb`)
+## 1. Data Cleaning and Analysis (`clean-data.ipynb`)
 
 - **Outlier Detection**: Identifies and removes outliers in numerical columns like `price` and `square_feet` using Z-scores.
 - **Statistical Analysis**: Generates insights and statistics from the raw dataset, such as correlations and trends.
@@ -32,7 +32,7 @@ This project provides a data visualization and analysis tool for rental apartmen
 2. **Generate Cleaned Dataset**
     Open the Jupyter notebook and execute all cells:
     ```
-    jupyter notebook apartments-visuals.ipynb
+    jupyter notebook clean-data.ipynb
     ```
     This will create the rents_cleaned.csv file.
 3.  **Start the Dashboard**
