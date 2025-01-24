@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3b530250-a873-4225-8ca4-cb21ac245d4b)
+
+
 # Rental Apartments Data Dashboard
 
 This project provides a data visualization and analysis tool for rental apartment data. It consists of two main components:
